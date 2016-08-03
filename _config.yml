@@ -6,9 +6,9 @@ color:
   saturation: 0.14018926164135337
   rhythmicContrast: 0.5685422944370657
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Mattes By Design
